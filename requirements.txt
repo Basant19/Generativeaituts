@@ -27,3 +27,10 @@ scikit-learn
 
 #to use gpu
 torch
+
+# Streamlit for Web Interface
+streamlit
+
+#for structred output
+pydantic
+typing-extensions
