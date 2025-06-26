@@ -33,7 +33,7 @@ Be clear and accurate. If relevant, include examples or key points from the pape
 """,
 input_variables=["paper_input", "style_input", "length_input"],
 validate_template=True,  # This ensures that the template is validated before use
-#we can use validated parameters to ensure the inputs are valid and all variable are provided which we cannot do in f srting 
+#we can use validated parameters to ensure the inputs are valid and all variable are provided this we cannot do in f srting 
 )
 '''Done without chaining that is why two times we are using invoke method
 '''

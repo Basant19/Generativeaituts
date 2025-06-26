@@ -3,7 +3,11 @@ from dotenv import load_dotenv
 from typing import TypedDict, Annotated, Optional, Literal
 from pydantic import BaseModel, Field
 import os
-
+'''Some llm have structured output capabilities, which allows you to define a schema for the output.
+This example uses Google Generative AI with Pydantic to define the schema for the output.
+some llm which do not have structured output capabilities can still be used with Pydantic by using the `with_structured_output` method but there 
+is another way which is output parser concept where different function is used to get desired output.
+'''
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 model = ChatGoogleGenerativeAI(
@@ -15,6 +19,7 @@ model = ChatGoogleGenerativeAI(
 
 # schema
 class Review(BaseModel):
+        
 
     key_themes: list[str] = Field(description="Write down all the key themes discussed in the review in a list")
     summary: str = Field(description="A brief summary of the review")
