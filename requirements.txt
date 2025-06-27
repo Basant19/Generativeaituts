@@ -34,3 +34,6 @@ streamlit
 #for structred output
 pydantic
 typing-extensions
+
+# to see chains graph
+grandalf
