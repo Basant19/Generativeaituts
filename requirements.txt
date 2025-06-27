@@ -37,3 +37,16 @@ typing-extensions
 
 # to see chains graph
 grandalf
+
+# Document Loaders
+langchain-community
+
+# PDF Loaders
+pypdf
+
+
+beautifulsoup4
+
+requests
+
+langchain-experimental
