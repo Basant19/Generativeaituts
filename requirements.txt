@@ -50,3 +50,18 @@ beautifulsoup4
 requests
 
 langchain-experimental
+
+# Vector Stores
+chromadb
+
+tiktoken
+
+sentence-transformers
+
+faiss-cpu 
+
+wikipedia
+
+ipykernel
+
+langchain_community.retrievers

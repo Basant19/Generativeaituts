@@ -14,4 +14,4 @@ Follow this sequences
 6.chains
 7.Runnables
 8.memory
-9.rags (documentloaders,splitters,)
+9.rags (documentloaders,textsplitters,vectorstores)
