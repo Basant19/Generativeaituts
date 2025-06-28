@@ -59,3 +59,12 @@ ipykernel
 
 # YouTube Transcript
 youtube-transcript-api
+
+# Additional LangChain Experimental Features
+langchain_experimental
+
+# Web Search Capabilities
+duckduckgo-search
+
+# Additional Libraries for Web and HTTP Requests
+requests
