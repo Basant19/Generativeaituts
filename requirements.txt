@@ -25,13 +25,13 @@ python-dotenv
 numpy
 scikit-learn
 
-#to use gpu
+# to use GPU
 torch
 
 # Streamlit for Web Interface
 streamlit
 
-#for structred output
+# for structured output
 pydantic
 typing-extensions
 
@@ -43,25 +43,19 @@ langchain-community
 
 # PDF Loaders
 pypdf
-
-
 beautifulsoup4
-
 requests
 
+# LangChain Experimental
 langchain-experimental
 
 # Vector Stores
 chromadb
-
 tiktoken
-
 sentence-transformers
-
 faiss-cpu 
-
 wikipedia
-
 ipykernel
 
-langchain_community.retrievers
+# YouTube Transcript
+youtube-transcript-api

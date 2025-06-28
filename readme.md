@@ -1,3 +1,7 @@
+to activate the venv use :conda activate "D:\ineuron_resource\Generative ai basic\project practise\basic_setup\venv"
+
+
+
 #use relative path to run the file which are inside the folder
 
 example:
