@@ -21,3 +21,4 @@ Follow this sequences
 9.rags (documentloaders,textsplitters,vectorstores)
 10.project
 11.tools
+12.agents
