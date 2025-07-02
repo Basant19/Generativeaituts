@@ -1,0 +1,5 @@
+https://github.com/langchain-ai/rag-from-scratch offical site of langchain 
+
+https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&index=1 offical viedo of langchain 
+
+advancerag (querytranslations->routing->querystructure->indexing->retrieval->generation) as langchain is moving from llm to chat model most the methods is moved to new other version so older methods will not work that is why I have not completed 

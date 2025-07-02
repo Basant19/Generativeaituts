@@ -18,7 +18,9 @@ Follow this sequences
 6.chains
 7.Runnables
 8.memory
-9.rags (documentloaders,textsplitters,vectorstores)
-10.project
-11.tools
-12.agents
+9.fine tunning use collab to run or kaggale notebook 
+10.simplerags (documentloaders->textsplitters->vectorstores) alternative to fine tunning 
+11.advancerag (querytranslations->routing->querystructure->indexing->retrieval->generation) as langchain is moving from llm to chat model most the methods is moved to new other version so older methods will not work that is why I have not completed 
+12.project
+13.tools
+14.agents

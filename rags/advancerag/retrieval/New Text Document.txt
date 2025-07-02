@@ -1,0 +1,4 @@
+there are more method for retrieval :
+ranking
+active retrieval
+

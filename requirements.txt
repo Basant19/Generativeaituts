@@ -25,46 +25,47 @@ python-dotenv
 numpy
 scikit-learn
 
-# to use GPU
+# GPU Support
 torch
 
-# Streamlit for Web Interface
+# Web Interface
 streamlit
 
-# for structured output
+# Structured Output
 pydantic
 typing-extensions
 
-# to see chains graph
+# Visualize LangChain Chains
 grandalf
 
 # Document Loaders
 langchain-community
 
-# PDF Loaders
+# PDF and HTML Parsing
 pypdf
 beautifulsoup4
 requests
 
-# LangChain Experimental
+# Experimental LangChain Features
 langchain-experimental
+langchain_experimental
 
-# Vector Stores
+# Vector Store Backends
 chromadb
 tiktoken
 sentence-transformers
-faiss-cpu 
+faiss-cpu
 wikipedia
 ipykernel
 
-# YouTube Transcript
+# YouTube Transcript Support
 youtube-transcript-api
 
-# Additional LangChain Experimental Features
-langchain_experimental
-
-# Web Search Capabilities
+# Web Search
 duckduckgo-search
 
-# Additional Libraries for Web and HTTP Requests
-requests
+# Fine-Tuning and Training
+datasets
+peft
+accelerate
+bitsandbytes
