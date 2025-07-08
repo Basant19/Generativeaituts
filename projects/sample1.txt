@@ -1,0 +1,10 @@
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. 
+These processes include learning, reasoning, and self-correction. AI applications include expert systems, natural language processing, speech recognition, and machine vision.
+
+Machine Learning (ML) is a subset of AI that involves the use of algorithms and statistical models to enable computers to improve their performance on a specific task through experience and data.
+
+Deep Learning (DL) is a further subset of machine learning that uses neural networks with many layers (hence “deep”) to analyze various factors of data. It is especially useful in image and speech recognition.
+
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human (natural) languages. It enables machines to understand, interpret, and generate human language.
+
+Large Language Models (LLMs), like GPT or Mistral, are advanced models trained on massive datasets to generate human-like text. They are used in chatbots, text summarization, translation, and content generation.
