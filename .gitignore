@@ -209,3 +209,4 @@ marimo/_lsp/
 __marimo__/
 
 temp_files/
+chroma_db/
